@@ -1,0 +1,7 @@
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\bin\Debug\netcoreapp3.1\EWardsApiClient.deps.json
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\bin\Debug\netcoreapp3.1\EWardsApiClient.dll
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\bin\Debug\netcoreapp3.1\EWardsApiClient.pdb
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\obj\Debug\netcoreapp3.1\EWardsApiClient.AssemblyInfoInputs.cache
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\obj\Debug\netcoreapp3.1\EWardsApiClient.AssemblyInfo.cs
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\obj\Debug\netcoreapp3.1\EWardsApiClient.dll
+C:\Users\shriya\source\repos\EWards\EWardsApiClient\obj\Debug\netcoreapp3.1\EWardsApiClient.pdb
